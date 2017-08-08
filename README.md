@@ -1,2 +1,2 @@
 # techSam
-technion summer
+technion summer Machine Learning Assignment Solution, provided by ZHAO Zhonghao
